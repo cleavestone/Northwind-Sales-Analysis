@@ -1,6 +1,9 @@
 # 📊 Northwind Sales Analysis – Power BI Project
 
-<img src="screenshots/Northwind_Dash.png" alt="Dashboard Preview" width="600">
+<p align="center">
+  <img src="screenshots/Northwind_Dash.png" alt="Dashboard Preview" width="500">
+</p>
+
 
 
 ---
